@@ -1,0 +1,7 @@
+template: Hello, %s!
+
+defaultName: Stranger
+
+template2: Test template, please ignore. %s.
+
+defaultName2: TEST
